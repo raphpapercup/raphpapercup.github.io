@@ -3,18 +3,36 @@ h1 {
 }
 
 h1:hover{
-	background-color: magenta;
+	background-color: darkblue;
+	color: lime;
 }
 
-body:hover{
-	background-color: blue;
+h2 {
+	background-color: lime;
 }
 
-#p1:hover {
-	background-color: magenta;
-	color: darkblue;
+#h2-1:hover {
+	background-color: aqua;
+}
+
+#h2-2:hover {
+	background-color: aqua;
 }
 
 body {
 	background-color: forestgreen;
+}
+
+body:hover{
+	background-color: magenta;
+}
+
+#p1:hover {
+	background-color: chartreuse;
+	color: darkblue;
+}
+
+#p2:hover{
+	background-color: teal;
+	color: white;
 }
