@@ -1,0 +1,20 @@
+h1 {
+	background-color: sienna;
+}
+
+h1:hover{
+	background-color: magenta;
+}
+
+body:hover{
+	background-color: blue;
+}
+
+#p1:hover {
+	background-color: magenta;
+	color: darkblue;
+}
+
+body {
+	background-color: forestgreen;
+}
